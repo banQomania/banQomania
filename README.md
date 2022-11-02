@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @banQomania aka Blessing Sibanda
+- 👋 Hi, I’m Blessing Sibanda
 - 👀 I’m interested in Android development, Computer Vision for Agriculture and NLP for low resource languages
 - 🌱 I’m currently learning Kotlin and Jetpack Compose
 - 💞️ I’m looking to collaborate on dataset creation for NLP for low resource languages
